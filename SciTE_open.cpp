@@ -5,6 +5,7 @@
 #include <string>
 #include <vector>
 
+// https://github.com/Schnapus/SciTE_open.git
 // Adapted from https://www.frykholm.se/main_cpp.html
 
 const char* const help =
